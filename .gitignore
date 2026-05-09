@@ -16,5 +16,6 @@ submission_ensemble_old_trainval_seed123.csv
 submission_trainval_seed123_tta8.csv
 
 # Auxiliary report drafting files not needed for the GitHub reproduction package.
+report_package/
 report_package/report.tex
 report_package/rubric_checklist.md
