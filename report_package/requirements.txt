@@ -1,0 +1,11 @@
+torch
+transformers==4.57.6
+peft==0.18.1
+accelerate
+datasets
+pandas
+numpy
+tqdm
+Pillow
+safetensors
+

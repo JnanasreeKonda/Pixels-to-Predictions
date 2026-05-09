@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.zip
+*.npy
+run_meta_*.json
+
+# Development notebooks/scripts from experimentation; final reproducibility
+# artifact is report_package/TheMergeConflict_final_solution.ipynb.
+scienceqa_*.ipynb
+smolvlm_*.ipynb
+Copy_of_*_cells.txt
+scienceqa_*.py
+submission_*tta*.csv
+submission_ensemble_old_trainval_seed123.csv
+submission_trainval_seed123_tta8.csv
+
+# Auxiliary report drafting files not needed for the GitHub reproduction package.
+report_package/report.tex
+report_package/rubric_checklist.md
